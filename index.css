@@ -1,0 +1,28 @@
+#container{
+  width: 250px;
+  height: 450px;
+  border: 1px solid rgb(213 199 178);
+  border-radius: 10px;
+  justify-content: center;
+}
+
+#input-container{
+  margin-top: 5px;
+  margin-left: 30px;
+  width: 180px;
+  height: 40px;
+  font-size: 27px;
+}
+
+.button-div{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button-container{
+  width: 60px;
+  height: 60px;
+  margin: 3px;
+  font-size: 25px;
+}
